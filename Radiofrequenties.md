@@ -43,4 +43,7 @@ Frequentiemodulatie is net als amplitudemodulatie één van de vormen van modula
 |----------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Ontdekt rond   | 1870                                                                             | 1930                                                                             |
 | modulatie door | De amplitude van de  draaggolf aan te passen op basis van de door te  geven data | De amplitude van de  draaggolf aan te passen op basis van de door te  geven data |
-| Voordelen      | - Groter bereik - Kleinere bandbreedte   => meer zenders mogelijk                | - Minder gevoelig voor   ruis - Betere geluidskwaliteit                          |
+| Voordelen      | - Groter bereik 
+- Kleinere bandbreedte   
+=> meer zenders mogelijk                | - Minder gevoelig voor ruis 
+- Betere geluidskwaliteit                          |
