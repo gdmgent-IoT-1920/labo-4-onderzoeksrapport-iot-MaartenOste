@@ -23,7 +23,7 @@ Vroeger onderscheidde men bij radio-uitzendingen vooral de lange, midden- en kor
 - Communicatie met ruimteschepen, satellieten en ruimtesondes.
 - Communicatie tussen hulpdiensten (brandweer, politie enz.) en openbaar vervoer
 
-## Amplitudemodulatie (AM)
+## Amplitudemodulatie ([AM](https://natuurkundeuitgelegd.nl/videolessen.php?video=AmplitudeModulatie))
 
 Amplitudemodulatie, kortweg AM genoemd, is een vorm van modulatie waarbij de amplitude van een signaal wordt gevarieerd om het geluidssignaal of andere informatie door te geven. Meestal is het signaal de draaggolf van een radiozender waarvan de amplitude in het ritme van het over te brengen geluid gemoduleerd is.
 
@@ -35,7 +35,7 @@ AM heeft het voordeel van een relatief kleine bandbreedte, een vereiste voor com
 
 ![AM](/assets/Amplitudemodulatie.jpg "AM")
 
-## Frequentiemodulatie (FM)
+## Frequentiemodulatie ([FM](https://natuurkundeuitgelegd.nl/videolessen.php?video=frequentiemodulatie))
 
 Frequentiemodulatie is net als amplitudemodulatie één van de vormen van modulatie die men kan toepassen om informatie over te brengen via bijvoorbeeld een radioverbinding door op de frequentie van een draaggolf relatief kleine modulaties aan te brengen die evenredig zijn met het bronsignaal, dat bijvoorbeeld een spraaksignaal kan zijn (audio). 
 
