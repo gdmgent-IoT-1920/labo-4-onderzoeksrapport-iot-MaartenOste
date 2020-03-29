@@ -97,6 +97,6 @@ Aangezien voorgaande uitleg zeer technisch was, hier even een opsomming van de b
 
 [Diffen - AM vs FM](https://www.diffen.com/difference/AM_vs_FM)
 
-[Wikipedia - DAB](https://nl.wikipedia.org/wiki/Digital_Audio_Broadcasting)
+[Wikipedia - Digital Audio Broadcasting](https://nl.wikipedia.org/wiki/Digital_Audio_Broadcasting)
 
 [Dabplus - DAB](https://www.dabplus.be/nl/)
