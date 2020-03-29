@@ -22,3 +22,15 @@ Vroeger onderscheidde men bij radio-uitzendingen vooral de lange, midden- en kor
 - Communicatie met schepen en vliegtuigen
 - Communicatie met ruimteschepen, satellieten en ruimtesondes.
 - Communicatie tussen hulpdiensten (brandweer, politie enz.) en openbaar vervoer
+
+## Amplitudemodulatie (AM)
+
+Amplitudemodulatie, kortweg AM genoemd, is een vorm van modulatie waarbij de amplitude van een signaal wordt gevarieerd om het geluidssignaal of andere informatie door te geven. Meestal is het signaal de draaggolf van een radiozender waarvan de amplitude in het ritme van het over te brengen geluid gemoduleerd is.
+
+Bij AM wordt het opgewekte hoogfrequent signaal (met een vaste werkfrequentie), een draaggolf, door het bronsignaal voortdurend in amplitude (of sterkte) gemoduleerd. Als het audiosignaal positief is, wordt de amplitude iets vergroot; bij een negatief signaal wordt de amplitude van de draaggolf iets verlaagd. De mate waarin de draaggolf het bronsignaal volgt, heet de modulatiediepte. De modulatiediepte wordt uitgedrukt in procenten van de ongemoduleerde draaggolf.
+
+AM is erg gevoelig voor stoorsignalen met een pulsvorm, zoals bliksem. Daardoor hoort men geknetter in het ontvangen signaal. AM wordt onder andere toegepast bij televisie (voor het beeldsignaal; het geluid is meestal in FM) en in het radioverkeer in de luchtvaart (vanwege de veiligheid: AM-signalen verdringen elkaar niet).
+
+AM heeft het voordeel van een relatief kleine bandbreedte (zie hieronder bij zijbanden), een vereiste voor communicatie op frequentiebanden onder ongeveer 26 MHz, zoals de lange golf, de middengolf en de korte golf. Daarnaast is voor de luchtvaart van belang dat twee stations die door elkaar uitzenden samen te horen zijn. Bij FM is dit niet zo: men hoort òf het sterkste station òf, als beide signalen bijna even sterk zijn, alleen een fluittoon.
+
+Een AM-signaal wordt in de regels van de ITU-R aangeduid als seinwijze A3E bij gebruik voor telefonie.
