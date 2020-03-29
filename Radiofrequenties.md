@@ -5,7 +5,7 @@ Een radiogolf, ook radiofrequente (RF) straling genoemd, is een golf in de vorm 
 
 Om bij een elektromagnetische golf van een bepaalde golflengte de corresponderende frequentie te bepalen wordt volgende formule gebruikt (met f = frequentie, l = golflengte en C = lichtsnelheid = 300 000 000 m/s)
 
-**f = C / l**
+***f = C / l***
 
 De zender zendt via een antenne, al dan niet gericht, de radiogolven uit, die na voortplanting door de ruimte opgevangen worden door de antenne van de ontvanger. De radiogolf dient daarbij als drager voor de te zenden informatie, die als variatie in de amplitude (AM) of in de frequentie (FM) aanwezig is. Door de in de radiogolf aanwezige informatie is de golf niet precies van één bepaalde frequentie, maar bestrijkt een zeker gebied, een frequentieband genaamd, rondom de frequentie van de draaggolf.
 
