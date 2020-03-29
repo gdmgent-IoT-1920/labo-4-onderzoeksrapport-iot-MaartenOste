@@ -43,6 +43,10 @@ De radiopionier Edwin Armstrong is de uitvinder van deze vorm van modulatie, die
 
 Bij FM zorgt een bronsignaal (bijvoorbeeld audio) ervoor dat de frequentie van de draaggolf f<sub>0</sub> wordt gevarieerd als functie van de momentane waarde van het bronsignaal y<sub>t</sub>. Als het bronsignaal een positieve waarde heeft, wordt de frequentie iets verhoogd en bij een negatieve waarde wordt de frequentie van de draaggolf iets verlaagd.
 
+![AM](/assets/Frequentiemodulatie.jpg "AM")
+
+
+
 |                | AM                                                                               | FM                                                                               |
 |----------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Ontdekt rond   | 1870                                                                             | 1930                                                                             |
