@@ -45,10 +45,25 @@ Bij FM zorgt een bronsignaal (bijvoorbeeld audio) ervoor dat de frequentie van d
 
 ![FM](/assets/Frequentiemodulatie.jpg "FM")
 
-### AM vs FM
+## AM vs FM
 
 |                | AM                                                                               | FM                                                                               |
 |----------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Ontdekt rond   | 1870                                                                             | 1930                                                                             |
 | modulatie door | De amplitude van de  draaggolf aan te passen op basis van de door te  geven data | De amplitude van de  draaggolf aan te passen op basis van de door te  geven data |
 | Voordelen      | - Groter bereik <br>- Kleinere bandbreedte   <br>=> meer zenders mogelijk                | - Minder gevoelig voor   ruis <br>- Betere geluidskwaliteit                          |
+
+
+## Bronnen
+
+[Wikipedia - Radiogolf](https://nl.wikipedia.org/wiki/Radiogolf)
+
+[Wikipedia - Amplitudemodulatie](https://nl.wikipedia.org/wiki/Amplitudemodulatie)
+
+[Wikipedia - Frequentiemodulatie](https://nl.wikipedia.org/wiki/Frequentiemodulatie)
+
+[Marketingtermen - FM](https://www.marketingtermen.nl/begrip/fm)
+
+[NASA - What are radio waves](https://www.nasa.gov/directorates/heo/scan/communications/outreach/funfacts/txt_radio_spectrum.html)
+
+[Diffen - AM vs FM](https://www.diffen.com/difference/AM_vs_FM)
