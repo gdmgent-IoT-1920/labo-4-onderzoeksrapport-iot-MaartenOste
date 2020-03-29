@@ -41,7 +41,7 @@ Frequentiemodulatie is net als amplitudemodulatie één van de vormen van modula
 
 De radiopionier Edwin Armstrong is de uitvinder van deze vorm van modulatie, die een betere ontvangst levert dan de klassieke amplitudemodulatie (AM). Daar staat wel tegenover dat een FM-signaal bij een gegeven bronsignaal in het algemeen, afhankelijk van de modulatie-index, veel meer bandbreedte nodig heeft dan een AM-signaal. Alle analoge videorecorders maken gebruik van smalbandige FM-modulatie om het videosignaal op de band vast te leggen.
 
-Bij FM zorgt een bronsignaal (bijvoorbeeld audio) ervoor dat de frequentie van de draaggolf {\displaystyle f_{0}}{\displaystyle f_{0}} wordt gevarieerd als functie van de momentane waarde van het bronsignaal {\displaystyle y_{t}}{\displaystyle y_{t}}. Als het bronsignaal een positieve waarde heeft, wordt de frequentie iets verhoogd en bij een negatieve waarde wordt de frequentie van de draaggolf iets verlaagd.
+Bij FM zorgt een bronsignaal (bijvoorbeeld audio) ervoor dat de frequentie van de draaggolf f_{0} wordt gevarieerd als functie van de momentane waarde van het bronsignaal {\displaystyle y_{t}}{\displaystyle y_{t}}. Als het bronsignaal een positieve waarde heeft, wordt de frequentie iets verhoogd en bij een negatieve waarde wordt de frequentie van de draaggolf iets verlaagd.
 
 |                | AM                                                                               | FM                                                                               |
 |----------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
