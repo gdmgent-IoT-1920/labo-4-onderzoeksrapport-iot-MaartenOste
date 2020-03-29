@@ -34,3 +34,5 @@ AM is erg gevoelig voor stoorsignalen met een pulsvorm, zoals bliksem. Daardoor 
 AM heeft het voordeel van een relatief kleine bandbreedte (zie hieronder bij zijbanden), een vereiste voor communicatie op frequentiebanden onder ongeveer 26 MHz, zoals de lange golf, de middengolf en de korte golf. Daarnaast is voor de luchtvaart van belang dat twee stations die door elkaar uitzenden samen te horen zijn. Bij FM is dit niet zo: men hoort òf het sterkste station òf, als beide signalen bijna even sterk zijn, alleen een fluittoon.
 
 Een AM-signaal wordt in de regels van de ITU-R aangeduid als seinwijze A3E bij gebruik voor telefonie.
+
+![AM](/assets/Amplitudemodulatie.jpg "AM")
