@@ -31,8 +31,16 @@ Bij AM wordt het opgewekte hoogfrequent signaal (met een vaste werkfrequentie), 
 
 AM is erg gevoelig voor stoorsignalen met een pulsvorm, zoals bliksem. Daardoor hoort men geknetter in het ontvangen signaal. AM wordt onder andere toegepast bij televisie (voor het beeldsignaal; het geluid is meestal in FM) en in het radioverkeer in de luchtvaart (vanwege de veiligheid: AM-signalen verdringen elkaar niet).
 
-AM heeft het voordeel van een relatief kleine bandbreedte (zie hieronder bij zijbanden), een vereiste voor communicatie op frequentiebanden onder ongeveer 26 MHz, zoals de lange golf, de middengolf en de korte golf. Daarnaast is voor de luchtvaart van belang dat twee stations die door elkaar uitzenden samen te horen zijn. Bij FM is dit niet zo: men hoort òf het sterkste station òf, als beide signalen bijna even sterk zijn, alleen een fluittoon.
-
-Een AM-signaal wordt in de regels van de ITU-R aangeduid als seinwijze A3E bij gebruik voor telefonie.
+AM heeft het voordeel van een relatief kleine bandbreedte, een vereiste voor communicatie op frequentiebanden onder ongeveer 26 MHz, zoals de lange golf, de middengolf en de korte golf. Daarnaast is voor de luchtvaart van belang dat twee stations die door elkaar uitzenden samen te horen zijn. Bij FM is dit niet zo: men hoort òf het sterkste station of, als beide signalen bijna even sterk zijn, alleen een fluittoon.
 
 ![AM](/assets/Amplitudemodulatie.jpg "AM")
+
+## Frequentiemodulatie (FM)
+
+Frequentiemodulatie is net als amplitudemodulatie één van de vormen van modulatie die men kan toepassen om informatie over te brengen via bijvoorbeeld een radioverbinding door op de frequentie van een draaggolf relatief kleine modulaties aan te brengen die evenredig zijn met het bronsignaal, dat bijvoorbeeld een spraaksignaal kan zijn (audio). De radiopionier Edwin Armstrong is de uitvinder van deze vorm van modulatie, die een betere ontvangst levert dan de klassieke amplitudemodulatie (AM). Daar staat wel tegenover dat een FM-signaal bij een gegeven bronsignaal in het algemeen, afhankelijk van de modulatie-index, veel meer bandbreedte nodig heeft dan een AM-signaal. Alle analoge videorecorders maken gebruik van smalbandige FM-modulatie om het videosignaal op de band vast te leggen.
+
+|                | AM                                                                               | FM                                                                               |   |   |
+|----------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---|---|
+| Ontdekt rond   | 1870                                                                             | 1930                                                                             |   |   |
+| modulatie door | De amplitude van de  draaggolf aan te passen op basis van de door te  geven data | De amplitude van de  draaggolf aan te passen op basis van de door te  geven data |   |   |
+| Voordelen      | - Groter bereik - Kleinere bandbreedte   => meer zenders mogelijk                | - Minder gevoelig voor   ruis - Betere geluidskwaliteit                          |   |   |
