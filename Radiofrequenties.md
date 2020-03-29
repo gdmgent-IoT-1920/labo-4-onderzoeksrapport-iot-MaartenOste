@@ -53,6 +53,35 @@ Bij FM zorgt een bronsignaal (bijvoorbeeld audio) ervoor dat de frequentie van d
 | modulatie door | De amplitude van de  draaggolf aan te passen op basis van de door te  geven data | De amplitude van de  draaggolf aan te passen op basis van de door te  geven data |
 | Voordelen      | - Groter bereik <br>- Kleinere bandbreedte   <br>=> meer zenders mogelijk                | - Minder gevoelig voor   ruis <br>- Betere geluidskwaliteit                          |
 
+## DAB
+
+Digital Audio Broadcasting is een Europees systeem dat sinds 1993 gedigitaliseerde radio-uitzendingen mogelijk maakt, als alternatief voor analoge radiosignalen.
+
+DAB maakt een storingsvrije ontvangst mogelijk, waarbij bovendien meer zenders mogelijk zijn. Dit kan een oplossing bieden voor capaciteitsproblemen op de FM-band. Bovendien is het mogelijk om tijdens de uitzendingen meer randinformatie door te sturen en (voor de luisteraars) de radioreclames weg te filteren.
+
+Een nadeel van DAB is dat de luisteraar de digitale radioprogramma's alleen kan ontvangen met een speciaal, duurder, DAB-radiotoestel. Massaproductie moet de prijs gaan drukken, maar huidige ontvangers zijn nog duurder dan analoge ontvangers. Op termijn zou DAB de uitzendingen van de FM-band kunnen vervangen.
+
+De belangrijkste technologieën waarvan DAB gebruikmaakt zijn MPEG1, Layer 2, COFDM (Coded OFDM), MPEG 4/AAC+-codering, en Unequal Error Protection (UEP).
+
+Verschillende radiozenders worden gebundeld in één multiplex en samen uitgezonden op één frequentie. De radio-ontvanger splitst dit signaal weer op in de verschillende stations.
+
+DAB werkt bovendien met een Single-Frequency Network waardoor meerdere zendantennes in een land dezelfde frequentie gebruiken voor dezelfde multiplex, zonder last te hebben van interferentie bij overlappende signalen. Bij FM moeten sommige regio's bepaalde frequenties vrij houden omdat een zender in een naburige regio deze al gebruikt. Bij DAB is overlappende ontvangst juist een voordeel. Een radio kan een zwak signaal van meerdere verschillende zendantennes ontvangen en daar een beter signaal uit samenstellen.
+
+## DAB+
+
+Na de ervaringen en kritiek op de oorspronkelijke versie van DAB in de pionierslanden is in 2005 de Technical Committee van WorldDMB gevraagd te studeren op verbeteringen. Een opgewaardeerde versie, met de naam DAB+, is door WorldDMB (vaststeller van DAB-standaarden) in 2007 gepubliceerd. De basis is onveranderd, er wordt nog steeds gebruikgemaakt van multiplexen en een Single-Frequency Network maar in plaats van MPEG1, Layer 2 wordt gebruikgemaakt van de MPEG 4/AAC+-codering, waardoor op veel lagere bitrates al een goede geluidskwaliteit gehaald kan worden. Daarnaast is de foutcorrectie dankzij het gebruik van Reed-Solomon verbeterd, zodat ook bij mindere ontvangst een betere geluidskwaliteit gegarandeerd kan worden. Door de fors hogere efficiëntie van AAC+ kunnen aanzienlijk meer radiozenders gebruikmaken van dezelfde frequentieruimte in vergelijking met de oude DAB-standaard. Praktijktests in Australië suggereren dat DAB+ ongeveer driemaal zo efficiënt is als DAB.
+
+Oudere DAB-ontvangers zijn niet in staat om DAB+ te decoderen, nieuwe DAB+-ontvangers kunnen beide standaarden aan. Hierdoor zal de oude DAB-standaard in het Verenigd Koninkrijk, waar al relatief veel DAB-ontvangers verkocht zijn, niet snel door DAB+ vervangen worden.  DAB+ is inmiddels in onder andere Australië, België, Duitsland, Gibraltar, Hongkong, Italië, Malta, Nederland, Tsjechië, en Zwitserland in gebruik genomen. In onder andere Frankrijk, Ierland, Maleisië, Polen en Zweden lopen DAB+-proefprojecten. In onder andere Denemarken en Noorwegen zijn migratietrajecten van DAB naar DAB+ gestart.
+
+Een migratie van DAB naar DAB+ is betrekkelijk eenvoudig. Bestaande DAB-infrastructuur is te gebruiken voor DAB+-uitzendingen en DAB+- en DAB-stations kunnen naast elkaar worden uitgezonden. Oudere DAB-radio’s negeren het DAB+-signaal, modernere radio’s die beide kunnen ontvangen zullen de voorkeur geven aan het DAB+-signaal. In sommige landen worden dezelfde zenders daarom in zowel DAB (voor luisteraars met oudere ontvangers) als DAB+ (in hogere kwaliteit) uitgezonden.
+
+Aangezien voorgaande uitleg zeer technisch was, hier even een opsomming van de belangrijkste voordelen:
+
+- Veel meer beschikbare radiozenders, dus grotere keuze voor de luisteraar. In de toekomst kunnen er gemakkelijk nog extra zenders bijkomen.
+- Digitale geluidskwaliteit.
+- Je favoriete zender is makkelijk terug te vinden. Een DAB+ radio zoekt automatisch alle radiozenders die beschikbaar zijn. Daarna kan je de zenders heel gemakkelijk zoeken op naam i.p.v. frequentie.
+- Radiozenders kunnen extra informatie meesturen naar het DAB+ toestel; op je display verschijnt er bijvoorbeeld artiesteninformatie, weerbericht, verkeersinfo, nieuws,…
+- DAB+ is een milieubewuste oplossing. De zenders verbruiken minder energie dan de FM-zenders.
 
 ## Bronnen
 
@@ -67,3 +96,7 @@ Bij FM zorgt een bronsignaal (bijvoorbeeld audio) ervoor dat de frequentie van d
 [NASA - What are radio waves](https://www.nasa.gov/directorates/heo/scan/communications/outreach/funfacts/txt_radio_spectrum.html)
 
 [Diffen - AM vs FM](https://www.diffen.com/difference/AM_vs_FM)
+
+[Wikipedia - DAB](https://nl.wikipedia.org/wiki/Digital_Audio_Broadcasting)
+
+[Dabplus - DAB](https://www.dabplus.be/nl/)
